@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+184
+'hay una promocion de que si lleva mas de 6 o 6 productos al valor se le hace un descuento de 12 porciento digite por favor la cantidad de productos y despues el valor total por favor'
+5
+1
+15
+Productos,Valor
+7
+0
+1
+12
+6<=Productos
+4
+1
+27
+'El total a pagar es',Valor
+13
+6
+1
+5
+Total
+19
+Valor-(valor *0.12)
+4
+1
+27
+'El total a pagar es',Total
+13
+1

@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+116
+'Se le hace descuento a adolescentes de 12 a 18 en un arcade de 23 porciento en la entrada por favor digite su edad'
+5
+1
+4
+Edad
+6
+1
+7
+Entrada
+5
+15000
+7
+0
+1
+8
+Edad>=12
+4
+1
+58
+'Usted tiene ningun descuento su total a pagar es',entrada
+13
+7
+0
+1
+8
+Edad<=18
+4
+1
+61
+'Usted no tiene ningun descuento su total a pagar es',entrada
+13
+6
+1
+9
+Descuento
+22
+entrada-(entrada*0.23)
+4
+1
+72
+'Felicidades su total a pagar por la entrada con descuento es',Descuento
+13
+13
+1

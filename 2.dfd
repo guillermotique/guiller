@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+125
+'En un campeonato de Voleibol solo se permiten personas que pesen de 50 a 55 si es mayor a ese peso o menor no puede dentrar'
+5
+1
+4
+Peso
+7
+0
+1
+8
+Peso>=50
+4
+1
+42
+'Usted no puede dentrar a este campeonato'
+13
+7
+0
+1
+8
+Peso<=55
+4
+1
+42
+'Usted no puede dentrar a este campeonato'
+13
+4
+1
+39
+'Usted puede dentrar a este campeonato'
+13
+13
+1

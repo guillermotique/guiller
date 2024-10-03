@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+179
+'En un ascensor solo puede ir una persona que pese menos de 70 kilos o si no tendra riesgo de colapso por favor digite su edad para saber si puede subir al ascensor con seguridad'
+5
+1
+4
+Peso
+7
+0
+1
+7
+Peso<70
+4
+1
+55
+'hay riesgo de colapso en el acensor por favor no suba'
+13
+4
+1
+41
+'No hay riesgo de colapso en el ascensor'
+13
+1

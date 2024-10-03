@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+122
+'En un campeonato de Boxeo solo se permiten personas que pesen de 65 a 70 si es mayor a ese peso o menor no puede dentrar'
+5
+1
+4
+Peso
+7
+0
+1
+8
+Peso>=65
+4
+1
+42
+'Usted no puede dentrar a este campeonato'
+13
+7
+0
+1
+8
+Peso<=70
+4
+1
+42
+'Usted no puede dentrar a este campeonato'
+13
+4
+1
+39
+'Usted puede dentrar a este campeonato'
+13
+13
+1
